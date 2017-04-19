@@ -1,0 +1,3 @@
+framework module AppTour {
+    header "AppTour-Swift.h"
+}
