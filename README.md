@@ -14,9 +14,12 @@ Highlight a button, a view, a label or anything that you want.
 
 # Getting Started
 * Clone the repo or download the `source code` and add the `'AppTour.framework'` file in your source code. Make sure to add the framework in the embedded binaries section.
+
+OR
+
 * Use `Cocoa pods` to integrate. <br/>
 > Add pod `'AppTour'` in your pod file and run pod install.
-<br/><br/>
+
 
 # Requirements
 * iOS 8 and above
