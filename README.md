@@ -6,6 +6,9 @@ AppTour is a lighweight library to integrate onboarding or app tutorial. It uses
 Highlight a button, a view, a label or anything that you want.
 <br/><br/>
 
+![Screenshot 1](https://prateekvarshney.000webhostapp.com/AppTour/Screenshot1.png "Screenshot 1")
+![Screenshot 2](https://prateekvarshney.000webhostapp.com/AppTour/Screenshot4.png "Screenshot 2")
+<br/>
 # Contents
 * [Getting Started](#getting-started)
 * [Requirements](#requirements)
@@ -36,6 +39,5 @@ Add the following line in your viewDidAppear method. The first argument is the v
 > appTour.showOnBoardingView(viewController: self, view: self.titleLabel, isViewInTable: false, tableObj: nil, indexPath: nil)
 
 # Upcoming
-Will add screenshots asap
-<br/>
+
 Will keep adding more functionalities and documentation.
