@@ -1,0 +1,6 @@
+framework module Pods_ChatScroller {
+  umbrella header "Pods-ChatScroller-umbrella.h"
+
+  export *
+  module * { export * }
+}
