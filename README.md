@@ -18,7 +18,7 @@ Highlight a button, a view, a label or anything that you want.
 OR
 
 * Use `Cocoa pods` to integrate. <br/>
-> Add pod `'AppTour'` in your pod file and run pod install.
+> Add `pod 'AppTour'` in your pod file and run pod install.
 
 
 # Requirements
